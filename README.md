@@ -8,7 +8,7 @@ This is a simple project containing a script with functions to connect to the Ch
 - python-dotenv
 
 ## Setup
-Once cloned the project, creating a virtual environment for it (optional but highly recommended)
+Once cloned the project, create a virtual environment for it (optional but highly recommended)
 
 Activate the virtual environment and install packages
 
